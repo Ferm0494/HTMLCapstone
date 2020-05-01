@@ -4,6 +4,12 @@ a:hover {
   text-decoration: none !important;
 }
 
+header{
+    position: sticky;
+    z-index: 1;
+    top:0;
+}
+
 header img {
   width: 10em;
 }
