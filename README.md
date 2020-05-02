@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Ferm0494/HTMLCapstone/18224c682a5e24f630547e3c79ea0b28260a3753/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Ferm0494/HTMLCapstone/d0f6d8420699ff9ab3b18c083643ae5f32512b93/index.html)
 
 ## Getting Started
     Feel free to resize the website :)
