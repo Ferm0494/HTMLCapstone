@@ -10,14 +10,10 @@
 #spacing {
   letter-spacing: 1em;
 }
-@media (max-width: 575.98px){
-  .grid-container{
-    
+
+@media (max-width: 575.98px) {
+  .grid-container {
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(8,1fr);
+    grid-template-rows: repeat(8, 1fr);
   }
-
-  
-
-
 }
