@@ -15,7 +15,7 @@ header img {
 }
 
 .w-md {
-  width: 6em;
+  width: 5rem;
 }
 
 .border-gray {
@@ -81,15 +81,17 @@ header img {
   background-position: center;
   background-size: 50%;
   background-repeat: no-repeat;
-  width: 12vw;
+  width: 18vw;
   height: 8vw;
-  min-width: 5em;
-  min-height: 5em;
+  min-width: 7em;
+  min-height: 7em;
 }
 
 footer input {
   color: #fff;
 }
+
+
 
 @media (max-width: 991.98px) {
   .big-font {
@@ -106,6 +108,8 @@ footer input {
 }
 
 @media (max-width: 575.98px) {
+   
+
   #change-blue {
     background-color: #e06138;
   }
