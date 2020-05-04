@@ -55,9 +55,27 @@ header img {
   background-color: rgba(255, 255, 255, 0.5);
 }
 
+.flex-customized-column-center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-content-around{
+  display: flex;
+  justify-content: space-around;
+}
+
+.padding-customized{
+  padding:5px;
+}
+.medium-margin-t{
+  margin-top: 4rem;
+}
 .backg-wrap {
   height: 40rem;
-  background-image: linear-gradient(86deg, rgba(0, 0, 0, 0.5144432773109244) 0%, rgba(0, 0, 0, 0.4948354341736695) 35%, rgba(0, 0, 0, 0.5648634453781513) 100%), url('https://www.comoxvalleyrecord.com/wp-content/uploads/2019/10/18936172_web1_191017-CVR-C-Booksforkenya.jpg');
+  background-image: linear-gradient(86deg, rgba(0, 0, 0, 0.51) 0%, rgba(0, 0, 0, 0.49) 35%, rgba(0, 0, 0, 0.56) 100%), url('https://www.comoxvalleyrecord.com/wp-content/uploads/2019/10/18936172_web1_191017-CVR-C-Booksforkenya.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

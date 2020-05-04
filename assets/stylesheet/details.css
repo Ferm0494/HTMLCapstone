@@ -5,6 +5,14 @@
   grid-gap: 10px;
 }
 
+.flex-colum-end{
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  justify-content: end;
+}
+
+
 #spacing {
   letter-spacing: 1em;
 }
