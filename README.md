@@ -1,6 +1,6 @@
 # Patashule
 
-> Patashule Directory School
+> Patashule Directory School a place where you can search for schools in your place, you click search then results will appear and then click on any results so you can see details on web-page.
 
 ![screenshot](./assets/img/presentation/1.png)
 ![screenshot](./assets/img/presentation/2.png)
